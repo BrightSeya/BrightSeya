@@ -53,7 +53,7 @@ I am a Bachelor of Science in Informatics and Computer Science student with a st
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3anatna&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=3antana&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3antana&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
 </p>
