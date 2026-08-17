@@ -57,6 +57,8 @@ I am a Bachelor of Science in Informatics and Computer Science student with a st
     src="https://github-stats-extended-frontend-beta-wheat.vercel.app/api?username=BrightSeya"
     alt="BrightSeya GitHub Stats"
   />
+
+  <img src="https://github-stats-extended-frontend-f42yh7ftm-santanaware.vercel.app/api/top-langs/?              username=BrightSeya&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages"   width="48%" />
 </p>
 
 <p align="center">
