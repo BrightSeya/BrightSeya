@@ -62,6 +62,8 @@ I am a Bachelor of Science in Informatics and Computer Science student with a st
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=3antana&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
+![GitHub Stats]([https://YOUR-VERCEL-DOMAIN.vercel.app/api?username=YOUR_GITHUB_USERNAME](https://github-stats-extended-frontend-beta-wheat.vercel.app/api?username=BrightSeya))
+
 ---
 
 ## Connect With Me
