@@ -6,7 +6,7 @@
 
 I am a Bachelor of Science in Informatics and Computer Science student with a strong focus on cybersecurity. I am passionate about understanding how systems are attacked and defended, and I enjoy exploring areas such as ethical hacking, network security, and secure system design. I like solving problems that involve identifying vulnerabilities, strengthening digital systems, and building practical security-focused solutions.
 
-- 🔭 **Current Focus:** Building practical security-focused systems and improving my skills in ethical hacking and secure web development.
+- 🔭 **Current Focus:** Improving my skills in ethical hacking and secure web development.
 - 🌱 **Learning & Exploration:** Cybersecurity fundamentals, penetration testing, Linux security tools, and secure coding practices.
 - ⚡ **Core Interests:** Cybersecurity, ethical hacking, network defense, and system security engineering.
 
