@@ -62,7 +62,11 @@ I am a Bachelor of Science in Informatics and Computer Science student with a st
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrightSeya&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
+  <img
+    src="./profile/activity.svg"
+    alt="GitHub Contribution Activity"
+    width="95%"
+  />
 </p>
 
 ---
